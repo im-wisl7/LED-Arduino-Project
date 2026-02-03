@@ -4,7 +4,7 @@
 This is my first Arduino project where I designed and implemented a basic circuit to control an LED using a breadboard. The project demonstrates practical skills in Arduino programming, circuit design, and electronics fundamentals.
 
 ## Features
-- Turn LED on and off using Arduino code
+- Turn the LED on and off using Arduino code
 - Hands-on experience with digital output and breadboard connections
 - Learning how to translate theoretical concepts into a working project
 
