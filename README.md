@@ -15,7 +15,10 @@ This is my first Arduino project where I designed and implemented a basic circui
 - Basic electronics
 
 ## Project Visuals
-![LED in action](led_photo.jpg) 
+
+![LED On](light on.jpg)
+![LED Off](light off.jpg)
+
 
 ## Code
 The Arduino code for this project can be found in the repository: `LED-Arduino-code.ino`
